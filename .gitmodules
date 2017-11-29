@@ -1,0 +1,6 @@
+[submodule "darksimplicity"]
+	path = darksimplicity
+	url = https://github.com/kritoke/darksimplicity.git
+[submodule "themes/darkSimplicity"]
+	path = themes/darkSimplicity
+	url = https://github.com/kritoke/darksimplicity.git
